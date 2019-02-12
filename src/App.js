@@ -32,6 +32,7 @@ class App extends Component {
           {/* <ClassButton text="I'm a class button" />
           <FunctionButton text="I'm a function button" />
           <StateClassButton text="I'm a function button" /> */}
+
           {/* <HoverBtn /> */}
 
           {/* <ClassCounter />
