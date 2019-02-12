@@ -16,6 +16,7 @@ import HoverBtn from './Components/Button'
 import HookCounter from './HooksComponens/Counter'
 import MultipleStates from './HooksComponens/MultipleStates'
 import HookHoverBtn from './HooksComponens/Button'
+import CustomHoverBtn from './HooksComponens/ButtonWithCustomHook'
 
 // useEffect
 import EffectCounter from './EffectComponents/Counter'
@@ -37,6 +38,7 @@ class App extends Component {
           <HookCounter /> */}
           {/* <MultipleStates /> */}
           {/* <HookHoverBtn /> */}
+          {/* <CustomHoverBtn /> */}
 
           {/* <EffectCounter /> */}
         </header>
